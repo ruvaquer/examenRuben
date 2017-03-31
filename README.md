@@ -1,0 +1,1 @@
+Este es el archivo readmi, donde colocaremos la descripción de los pasos del proyecto
